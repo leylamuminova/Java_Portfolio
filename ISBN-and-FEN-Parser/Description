@@ -1,0 +1,2 @@
+Java program implementing ISBN10/ISBN13 check-digit algorithms and a FEN chess-position parser. 
+Demonstrates input validation, modular arithmetic, file I/O, and grid-based data translation—highlighting precise logic, error checking, and strong analytical problem-solving useful in finance and data workflows.
