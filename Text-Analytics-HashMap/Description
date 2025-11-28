@@ -1,0 +1,2 @@
+Built a full chaining-based HashMap from scratch and applied it to large-scale text analytics on Project Gutenberg books.
+Implemented word-frequency computation, top-N analysis, and custom sorting. Demonstrates data processing, hashing logic, and algorithmic efficiency critical for quantitative and finance analytics.
