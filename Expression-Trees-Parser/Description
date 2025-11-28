@@ -1,0 +1,2 @@
+Implemented a full expression-tree system supporting postfix parsing, prefix/infix/postfix generation, evaluation, simplification, and structural equality. 
+Showcases advanced OOP design, recursion, tree traversal, and symbolic computation—highlighting analytical rigor valuable in modeling and finance.
